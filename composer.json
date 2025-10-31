@@ -1,0 +1,15 @@
+{
+  "name": "osu-wams/larix",
+  "description": "A Drupal 10 subtheme based on Bootstrap.",
+  "type": "drupal-theme",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://github.com/osu-wams/larix",
+  "support": {
+    "issues": "https://github.com/osu-wams/larix/issues",
+    "source": "https://github.com/osu-wams/larix"
+  },
+  "require": {
+    "drupal/core": "^9 || ^10",
+    "drupal/bootstrap": "^3.0"
+  }
+}

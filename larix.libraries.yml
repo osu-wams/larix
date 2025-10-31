@@ -1,0 +1,12 @@
+# Libraries for Larix theme
+global-styling:
+  version: 1.0.0
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    js/larix.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings

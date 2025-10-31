@@ -1,0 +1,36 @@
+<?php
+
+/**
+ * @file
+ * Functions to support theming in the Larix theme.
+ */
+
+use Drupal\Core\Form\FormStateInterface;
+
+/**
+ * Implements hook_preprocess_HOOK() for HTML document templates.
+ */
+function larix_preprocess_html(&$variables) {
+  // Add custom classes to the body tag if needed.
+}
+
+/**
+ * Implements hook_preprocess_HOOK() for page templates.
+ */
+function larix_preprocess_page(&$variables) {
+  // Custom preprocessing for page template.
+}
+
+/**
+ * Implements hook_preprocess_HOOK() for node templates.
+ */
+function larix_preprocess_node(&$variables) {
+  // Custom preprocessing for node template.
+}
+
+/**
+ * Implements hook_form_system_theme_settings_alter().
+ */
+function larix_form_system_theme_settings_alter(&$form, FormStateInterface $form_state) {
+  // Custom theme settings form alterations.
+}
