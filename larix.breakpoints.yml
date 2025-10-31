@@ -1,5 +1,6 @@
 # Breakpoints for Larix theme
-# These align with Bootstrap's responsive breakpoints
+# These align with Bootstrap 5 responsive breakpoints
+# Note: Remove the xxl breakpoint if using Bootstrap 4
 
 larix.xs:
   label: Extra small
