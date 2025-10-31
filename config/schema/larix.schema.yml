@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Larix theme.
+
+larix.settings:
+  type: theme_settings
+  label: 'Larix settings'
