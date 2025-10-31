@@ -1,0 +1,86 @@
+larix_atomic.settings:
+  type: config_object
+  label: 'Larix Atomic theme settings'
+  mapping:
+    bootstrap_library:
+      type: string
+      label: 'Bootstrap library'
+    bootstrap_sidebar_position:
+      type: string
+      label: 'Sidebar position'
+    bootstrap_content_offset:
+      type: integer
+      label: 'Content offset'
+    bootstrap_sidebar_first_width:
+      type: integer
+      label: 'First sidebar width'
+    bootstrap_sidebar_first_offset:
+      type: integer
+      label: 'First sidebar offset'
+    bootstrap_sidebar_second_width:
+      type: integer
+      label: 'Second sidebar width'
+    bootstrap_sidebar_second_offset:
+      type: integer
+      label: 'Second sidebar offset'
+    bootstrap_fluid_container:
+      type: integer
+      label: 'Fluid container'
+    bootstrap_button:
+      type: integer
+      label: 'Button enabled'
+    bootstrap_button_size:
+      type: string
+      label: 'Button size'
+    bootstrap_button_outline:
+      type: integer
+      label: 'Button outline'
+    bootstrap_navbar_toggle:
+      type: string
+      label: 'Navbar toggle'
+    bootstrap_navbar_container:
+      type: string
+      label: 'Navbar container'
+    bootstrap_navbar_top_position:
+      type: string
+      label: 'Navbar top position'
+    bootstrap_navbar_top_color:
+      type: string
+      label: 'Navbar top color'
+    bootstrap_navbar_top_background:
+      type: string
+      label: 'Navbar top background'
+    bootstrap_navbar_position:
+      type: string
+      label: 'Navbar position'
+    bootstrap_navbar_color:
+      type: string
+      label: 'Navbar color'
+    bootstrap_navbar_background:
+      type: string
+      label: 'Navbar background'
+    bootstrap_messages_widget:
+      type: string
+      label: 'Messages widget'
+    bootstrap_radio:
+      type: string
+      label: 'Radio style'
+    bootstrap_checkbox:
+      type: string
+      label: 'Checkbox style'
+    bootstrap_select:
+      type: string
+      label: 'Select style'
+    bootstrap_file:
+      type: string
+      label: 'File style'
+    bootstrap_system_messages:
+      type: string
+      label: 'System messages style'
+    bootstrap_table_hover:
+      type: integer
+      label: 'Table hover'
+    bootstrap_table_style:
+      type: string
+      label: 'Table style'
+
