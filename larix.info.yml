@@ -19,7 +19,3 @@ regions:
 
 libraries:
   - larix/global-styling
-
-# Information added by Drupal.org packaging script
-version: '1.0.0'
-project: 'larix'
